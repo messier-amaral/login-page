@@ -12,7 +12,10 @@ module.exports = {
         'midnight-green': '#0A4F5B',
         'keppel': '#63B9A9',
         'rich-black': '#003945',
-        'pigment-green': '#4CAF50'
+        'pigment-green': '#4CAF50',
+
+        'bondi-blue': '#3C88A6',
+        'cerulean': '#33728B',
 
       },
       spacing : {
@@ -28,8 +31,8 @@ module.exports = {
         'h1': '3rem',
       },
       backgroundImage: {
-        'wallpaper-login-desktop': "url('/forest-wallpaper-pc.svg')",
-        'blob-detail': "url('/blob-detail.svg')",
+        'wallpaper-login-desktop': "url('/login-background-pc.svg')",
+        'wallpaper-signup-desktop': "url('/sign-up-background.svg')",
       },
       boxShadow: {
         'google': '1px 2px 6px #00000057'
