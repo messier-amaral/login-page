@@ -32,7 +32,8 @@ module.exports = {
       },
       backgroundImage: {
         'wallpaper-login-desktop': "url('/login-background-pc.svg')",
-        'wallpaper-signup-desktop': "url('/sign-up-background.svg')",
+        'wallpaper-signup-desktop': "url('/sign-up-background-pc.svg')",
+        'wallpaper-forgotpassword-desktop': "url('/forgot-password-pc.svg')"
       },
       boxShadow: {
         'google': '1px 2px 6px #00000057'

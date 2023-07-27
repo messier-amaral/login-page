@@ -11,6 +11,7 @@ export default function SignUp() {
     const handleTogglePassword = () => {
         setShowPassword(!showPassword)
     }
+    
     return (
         <main className='h-screen flex flex-col justify-center items-end bg-alice-blue bg-wallpaper-signup-desktop bg-no-repeat bg-left bg-cover'>
             <form className='flex flex-col pr-40'>

@@ -36,7 +36,7 @@ export default function Home() {
           </button>
         </div>
 
-        <Link href='#' className='font-emphasis text-keppel hover:underline'>Forgot login or password?</Link>
+        <Link href='/forgot-password' className='font-emphasis text-keppel hover:underline'>Forgot login or password?</Link>
 
         <button type="submit" className='w-[400px] h-[50px] rounded-[25px] bg-midnight-green text-alice-blue font-emphasis text-2xl mt-5 hover:bg-rich-black hover:scale-105 duration-1000'>Login</button>
       </form>
