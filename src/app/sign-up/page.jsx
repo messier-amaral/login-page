@@ -14,7 +14,7 @@ export default function SignUp() {
     }
     
     return (
-        <main className='h-screen flex flex-col justify-center items-center bg-alice-blue bg-wallpaper-signup-mobile bg-no-repeat bg-left bg-cover xl:bg-wallpaper-signup-desktop xl:bg-left xl:items-end'>
+        <main className='h-screen flex flex-col justify-center items-center bg-alice-blue dark:bg-raisin-black bg-wallpaper-signup-mobile bg-no-repeat bg-left bg-cover xl:bg-wallpaper-signup-desktop xl:bg-left xl:items-end'>
             <form className='flex flex-col xl:pr-40'>
                 <h1 className='font-emphasis text-5xl text-bondi-blue text-center mb-14'>Sign up</h1>
 
@@ -46,7 +46,7 @@ export default function SignUp() {
             </div>
             <div className='flex flex-col justify-center w-[400px] xl:mr-40 items-center'>
                 <button type="button">
-                    <FcGoogle className='w-[50px] h-[50px] p-[8px] shadow-google rounded-full hover:bg-[#E8F0F6] duration-300' />
+                    <FcGoogle className='w-[50px] h-[50px] p-[8px] shadow-google rounded-full bg-alice-blue hover:bg-[#E8F0F6] duration-300' />
                 </button>
                 <Link href='/' className='mt-[8px] font-emphasis text-midnight-green xl:text-bondi-blue hover:underline'>Already have an account? Log in.</Link>
             </div>

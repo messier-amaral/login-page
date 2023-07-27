@@ -14,7 +14,7 @@ export default function ForgotPassword() {
     }
 
     return (
-        <main className='h-screen flex flex-col justify-center items-center bg-alice-blue bg-wallpapper-forgot-mobile bg-no-repeat bg-left bg-cover xl:bg-wallpaper-signup-desktop xl:bg-left xl:items-end'>
+        <main className='h-screen flex flex-col justify-center items-center bg-alice-blue dark:bg-raisin-black bg-wallpapper-forgot-mobile bg-no-repeat bg-left bg-cover xl:bg-wallpaper-signup-desktop xl:bg-left xl:items-end'>
             <form className='flex flex-col xl:pr-40'>
                 <h1 className='font-emphasis text-4xl text-bondi-blue text-center mb-14'>Recover Password</h1>
                 
@@ -43,7 +43,7 @@ export default function ForgotPassword() {
                     </button>
                 </div>
 
-                <button type="submit" className='w-[350px] h-[50px] rounded-[25px] bg-bondi-blue text-alice-blue font-emphasis text-2xl mt-5 hover:bg-cerulean hover:scale-105 duration-1000'>Set new password</button>
+                <button type="submit" className='w-[350px] xl:w-[400px] h-[50px] rounded-[25px] bg-bondi-blue text-alice-blue font-emphasis text-2xl mt-5 hover:bg-cerulean hover:scale-105 duration-1000'>Set new password</button>
             </form>
         </main>
     )

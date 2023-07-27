@@ -11,11 +11,13 @@ module.exports = {
         'alice-blue': '#F0F8FF',
         'midnight-green': '#0A4F5B',
         'keppel': '#63B9A9',
-        'rich-black': '#003945',
+        'rich-black-dark': '#041E23',
+        'rich-black-light': '#003945',
         'pigment-green': '#4CAF50',
 
         'bondi-blue': '#3C88A6',
         'cerulean': '#33728B',
+        'raisin-black': '#14131E'
 
       },
       spacing : {
