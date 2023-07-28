@@ -40,7 +40,7 @@ export default function SignUp() {
             </form>
 
             <div className='flex flex-row xl:pr-40 items-center my-[15px]'>
-            <div className='h-[2px] w-[110px] xl:w-[135px] bg-keppel mr-[15px]'></div>
+            <div className='h-[2px] w-[110px] xl:w-[135px] bg-bondi-blue mr-[15px]'></div>
                 <p className='font-emphasis text-bondi-blue'>or login with</p>
                 <div className='h-[2px] w-[110px] xl:w-[135px] bg-bondi-blue ml-[15px]'></div>
             </div>
