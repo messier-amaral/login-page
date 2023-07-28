@@ -1,4 +1,6 @@
-**I proudly present this simple login screen project as part of my portfolio. Although it's a straightforward implementation with just three routes – login, forgot password, and create account – I have plans to expand it in the future by incorporating a messaging system to send emails to the provided address. The goal is to showcase my skills and demonstrate how I can continuously evolve and enhance this project over time. I'm excited to receive feedback and take on more significant challenges to further refine my abilities as a developer**
+**I present a simple login screen project that I integrated into my portfolio. It played a crucial role in my learning and practicing of Tailwind CSS, enabling me to finish the site more quickly without wasting time on styling. I hope you like it! Moreover, this project provided an excellent opportunity to practice my programming and website creation skills, incorporating Tailwind CSS media queries to make the site responsive on various devices.** 
+
+**It was also my first time implementing the Mobile First concept in one of my sites.**
 
 - [Design on Behance](https://www.behance.net/gallery/176157731/Login-Page)
 
